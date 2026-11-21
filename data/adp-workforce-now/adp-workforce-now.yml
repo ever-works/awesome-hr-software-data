@@ -1,0 +1,13 @@
+name: "ADP Workforce Now"
+description: "Cloud-based human capital management platform for midsize and large enterprises. Combines payroll, HR, time, talent, and benefits administration with compliance tools."
+source_url: "https://www.adp.com/"
+category: "All-in-One HRIS"
+tags:
+  - "paid"
+  - "enterprise"
+  - "api"
+  - "payroll"
+  - "hcm"
+icon_url: "https://icons.duckduckgo.com/ip3/www.adp.com.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://www.adp.com/>\n\nLicense: Proprietary.\n"
+updated_at: "2026-11-21 15:49"

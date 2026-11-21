@@ -1,0 +1,13 @@
+name: "Remote"
+description: "Global HR platform for hiring, paying, and managing employees and contractors internationally. Provides employer of record, payroll, benefits, and compliance in one cloud solution."
+source_url: "https://remote.com/"
+category: "All-in-One HRIS"
+tags:
+  - "paid"
+  - "api"
+  - "global-payroll"
+  - "employer-of-record"
+  - "remote-work"
+icon_url: "https://icons.duckduckgo.com/ip3/remote.com.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://remote.com/>\n\nLicense: Proprietary.\n"
+updated_at: "2026-11-21 15:49"

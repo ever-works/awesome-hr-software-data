@@ -1,0 +1,13 @@
+name: "Gusto"
+description: "Online payroll, benefits, and HR platform for small businesses in the United States. Includes automated tax filings, workers' compensation, and employee onboarding."
+source_url: "https://gusto.com/"
+category: "Core HR for SMBs"
+tags:
+  - "paid"
+  - "api"
+  - "payroll"
+  - "smb"
+  - "benefits"
+icon_url: "https://icons.duckduckgo.com/ip3/gusto.com.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://gusto.com/>\n\nLicense: Proprietary.\n"
+updated_at: "2026-11-21 15:49"

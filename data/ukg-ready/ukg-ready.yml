@@ -1,0 +1,13 @@
+name: "UKG Ready"
+description: "HR, payroll, and workforce management solution for midsize organizations. Offers scheduling, time tracking, talent management, and compliance features."
+source_url: "https://www.ukg.com/"
+category: "All-in-One HRIS"
+tags:
+  - "paid"
+  - "api"
+  - "mid-market"
+  - "payroll"
+  - "workforce-management"
+icon_url: "https://icons.duckduckgo.com/ip3/www.ukg.com.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://www.ukg.com/>\n\nLicense: Proprietary.\n"
+updated_at: "2026-11-21 15:49"

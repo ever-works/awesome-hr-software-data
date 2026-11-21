@@ -1,0 +1,13 @@
+name: "Visier"
+description: "People analytics and workforce planning platform for HR leaders. Aggregates HR data to provide insights on retention, diversity, and labor costs."
+source_url: "https://www.visier.com/"
+category: "HR Analytics"
+tags:
+  - "paid"
+  - "enterprise"
+  - "api"
+  - "people-analytics"
+  - "workforce-planning"
+icon_url: "https://icons.duckduckgo.com/ip3/www.visier.com.ico"
+markdown: "## Pricing\n\nEnterprise.\n\n## Links\n\n- Website: <https://www.visier.com/>\n\nLicense: Proprietary.\n"
+updated_at: "2026-11-21 15:49"

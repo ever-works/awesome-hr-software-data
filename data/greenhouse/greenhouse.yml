@@ -1,0 +1,13 @@
+name: "Greenhouse"
+description: "Recruiting and onboarding platform that helps companies source candidates, conduct interviews, and onboard new hires. Includes offer management and reporting."
+source_url: "https://www.greenhouse.io/"
+category: "Employee Onboarding"
+tags:
+  - "paid"
+  - "api"
+  - "recruiting"
+  - "onboarding"
+  - "ats"
+icon_url: "https://icons.duckduckgo.com/ip3/www.greenhouse.io.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://www.greenhouse.io/>\n\nLicense: Proprietary.\n"
+updated_at: "2026-11-21 15:49"

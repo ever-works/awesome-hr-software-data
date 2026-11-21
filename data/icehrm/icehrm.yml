@@ -1,0 +1,13 @@
+name: "IceHrm"
+description: "Open-source human resource management system for small and medium businesses. Features employee database, leave management, time tracking, and performance reviews."
+source_url: "https://www.icehrm.com/"
+category: "Open-Source & Self-Hosted HRM"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "free-plan"
+  - "hrm"
+  - "leave-management"
+icon_url: "https://icons.duckduckgo.com/ip3/www.icehrm.com.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://www.icehrm.com/>\n\nLicense: GPL-3.0.\n"
+updated_at: "2026-11-21 15:49"

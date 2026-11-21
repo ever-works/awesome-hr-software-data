@@ -1,0 +1,13 @@
+name: "Workday HCM"
+description: "Enterprise cloud HCM suite for finance, HR, planning, and payroll. Serves large organizations with workforce management, talent, and analytics capabilities."
+source_url: "https://www.workday.com/"
+category: "All-in-One HRIS"
+tags:
+  - "paid"
+  - "enterprise"
+  - "api"
+  - "cloud-hcm"
+  - "payroll"
+icon_url: "https://icons.duckduckgo.com/ip3/www.workday.com.ico"
+markdown: "## Pricing\n\nEnterprise.\n\n## Links\n\n- Website: <https://www.workday.com/>\n\nLicense: Proprietary.\n"
+updated_at: "2026-11-21 15:49"

@@ -1,0 +1,13 @@
+name: "Deel"
+description: "Global payroll and compliance platform enabling companies to hire and pay employees and contractors in over 150 countries. Offers employer of record services and HRIS features."
+source_url: "https://www.deel.com/"
+category: "All-in-One HRIS"
+tags:
+  - "paid"
+  - "api"
+  - "global-payroll"
+  - "employer-of-record"
+  - "compliance"
+icon_url: "https://icons.duckduckgo.com/ip3/www.deel.com.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://www.deel.com/>\n\nLicense: Proprietary.\n"
+updated_at: "2026-11-21 15:49"

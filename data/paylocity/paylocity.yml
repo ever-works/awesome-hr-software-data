@@ -1,0 +1,13 @@
+name: "Paylocity"
+description: "Payroll and human capital management software for small and midsize businesses. Includes HR, benefits, time and labor, and employee engagement tools."
+source_url: "https://www.paylocity.com/"
+category: "Core HR for SMBs"
+tags:
+  - "paid"
+  - "api"
+  - "smb"
+  - "payroll"
+  - "benefits"
+icon_url: "https://icons.duckduckgo.com/ip3/www.paylocity.com.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://www.paylocity.com/>\n\nLicense: Proprietary.\n"
+updated_at: "2026-11-21 15:49"

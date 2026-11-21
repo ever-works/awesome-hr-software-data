@@ -1,0 +1,80 @@
+- id: paid
+  name: "Paid"
+- id: api
+  name: "API"
+- id: smb
+  name: "SMB"
+- id: core-hr
+  name: "Core HR"
+- id: all-in-one
+  name: "All-in-One"
+- id: payroll
+  name: "Payroll"
+- id: it-management
+  name: "IT Management"
+- id: mid-market
+  name: "Mid-Market"
+- id: performance-management
+  name: "Performance Management"
+- id: recruiting
+  name: "Recruiting"
+- id: benefits
+  name: "Benefits"
+- id: global-payroll
+  name: "Global Payroll"
+- id: employer-of-record
+  name: "Employer of Record"
+- id: compliance
+  name: "Compliance"
+- id: enterprise
+  name: "Enterprise"
+- id: cloud-hcm
+  name: "Cloud HCM"
+- id: time-tracking
+  name: "Time Tracking"
+- id: document-management
+  name: "Document Management"
+- id: zoho-ecosystem
+  name: "Zoho Ecosystem"
+- id: attendance
+  name: "Attendance"
+- id: open-source
+  name: "Open Source"
+- id: self-hosted
+  name: "Self-Hosted"
+- id: hrm
+  name: "HRM"
+- id: recruitment
+  name: "Recruitment"
+- id: free-plan
+  name: "Free Plan"
+- id: frappe-framework
+  name: "Frappe Framework"
+- id: onboarding
+  name: "Onboarding"
+- id: hcm
+  name: "HCM"
+- id: workforce-management
+  name: "Workforce Management"
+- id: employee-engagement
+  name: "Employee Engagement"
+- id: engagement
+  name: "Engagement"
+- id: hr-analytics
+  name: "HR Analytics"
+- id: ats
+  name: "ATS"
+- id: people-analytics
+  name: "People Analytics"
+- id: workforce-planning
+  name: "Workforce Planning"
+- id: erp
+  name: "ERP"
+- id: hr-module
+  name: "HR Module"
+- id: time-attendance
+  name: "Time Attendance"
+- id: leave-management
+  name: "Leave Management"
+- id: remote-work
+  name: "Remote Work"

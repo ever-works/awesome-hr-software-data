@@ -1,0 +1,13 @@
+name: "Frappe HR"
+description: "Open-source HR and payroll management system built on the Frappe Framework. Supports employee records, attendance, leave, payroll, and expense claims; can be self-hosted or used via Frappe Cloud."
+source_url: "https://github.com/frappe/hrms"
+category: "Open-Source & Self-Hosted HRM"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "free-plan"
+  - "payroll"
+  - "frappe-framework"
+icon_url: "https://icons.duckduckgo.com/ip3/github.com.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://github.com/frappe/hrms>\n\nLicense: GPL-3.0.\n"
+updated_at: "2026-11-21 15:49"

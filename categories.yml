@@ -1,0 +1,12 @@
+- id: all-in-one-hris
+  name: "All-in-One HRIS"
+- id: core-hr-for-smbs
+  name: "Core HR for SMBs"
+- id: open-source-and-self-hosted-hrm
+  name: "Open-Source & Self-Hosted HRM"
+- id: employee-onboarding
+  name: "Employee Onboarding"
+- id: performance-and-engagement
+  name: "Performance & Engagement"
+- id: hr-analytics
+  name: "HR Analytics"

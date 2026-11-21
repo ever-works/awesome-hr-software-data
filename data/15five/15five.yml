@@ -1,0 +1,13 @@
+name: "15Five"
+description: "Employee performance and engagement platform featuring check-ins, OKRs, reviews, and manager training. Designed for HR teams and people managers."
+source_url: "https://www.15five.com/"
+category: "Performance & Engagement"
+tags:
+  - "paid"
+  - "api"
+  - "performance-management"
+  - "engagement"
+  - "hr-analytics"
+icon_url: "https://icons.duckduckgo.com/ip3/www.15five.com.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://www.15five.com/>\n\nLicense: Proprietary.\n"
+updated_at: "2026-11-21 15:49"

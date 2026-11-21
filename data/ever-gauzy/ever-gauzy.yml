@@ -1,0 +1,13 @@
+name: "Ever Gauzy"
+description: "Open-source human resource management system for small and midsize businesses. Includes recruitment, onboarding, time off, performance, and document management with self-hosted deployment."
+source_url: "https://gauzy.co/"
+category: "Open-Source & Self-Hosted HRM"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "free-plan"
+  - "hrm"
+  - "onboarding"
+icon_url: "https://icons.duckduckgo.com/ip3/gauzy.co.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://gauzy.co/>\n- Repository: <https://github.com/ever-co/ever-gauzy>\n\nLicense: AGPL-3.0.\n"
+updated_at: "2026-11-21 15:49"
